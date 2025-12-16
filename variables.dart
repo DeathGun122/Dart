@@ -22,6 +22,7 @@ void main() {
   print(fullname);
   print(name2);
 
-  
-
+  // Not assigning
+  var myname;
+  print(myname);
 }
